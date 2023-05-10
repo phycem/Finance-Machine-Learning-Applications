@@ -1,4 +1,4 @@
 # Finance-Machine-Learning-Applications
-# Fintech
+# (Fintech)
 ## Quantitative Analysis on Financial modeling 
 ## Time-Series / Forecasting
